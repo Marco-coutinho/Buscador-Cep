@@ -32,7 +32,7 @@ async function handleSearch(){
     <div className='container'>
      <h1 className='title'> Buscador De Cep </h1>
 
-   <div className="cointainerInput">
+   <div className="containerInput">
      <input 
      type='text'
      placeholder='Digite seu cep..'
